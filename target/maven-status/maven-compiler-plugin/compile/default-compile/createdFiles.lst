@@ -1,0 +1,6 @@
+it\codegen\tbx\Booking.class
+it\codegen\tbx\BookingItem.class
+it\codegen\tbx\Booking$BookingProduct.class
+it\codegen\tbx\utils\BookingLoaderUtil.class
+it\codegen\tbx\BookingSearch.class
+it\codegen\tbx\BookingItem$ProductType.class
